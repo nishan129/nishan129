@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Ai/ml developer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="[https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://moodle.acs.gr/pluginfile.php/725517/course/overviewfiles/coding.gif)">
+<img align="right" alt="coding" width="400" src="https://moodle.acs.gr/pluginfile.php/725517/course/overviewfiles/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishan129&label=Profile%20views&color=0e75b6&style=flat" alt="nishan129" /> </p>
 
